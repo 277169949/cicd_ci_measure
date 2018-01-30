@@ -1,0 +1,1 @@
+python F:\devops_cicd_scripts\ci_measure\manage.py runserver 0.0.0.0:8000
